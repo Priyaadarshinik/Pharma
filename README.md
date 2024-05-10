@@ -446,8 +446,8 @@ contact.html
 </body>
 </html>
 ```
-
 ## OUTPUT:
+
 ![alt text](pharmacare/healthfit/static/home.png)
 ![alt text](pharmacare/healthfit/static/about.png)
 ![alt text](pharmacare/healthfit/static/product.png)
